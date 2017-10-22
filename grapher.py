@@ -52,4 +52,4 @@ def initializeGraph():
     # Show the graph for the first time
     plt.show()
 
-#initializeGraph()
+initializeGraph()
